@@ -1,13 +1,13 @@
 {
-    "name": "my-website",
+    "name": "Kenneth Barkdoll",
     "version": "1.0.0",
-    "description": "A basic website with JavaScript functionality",
+    "description": "Things I like. Welcome to the Machine.",
     "main": "index.js",
     "scripts": {
       "start": "http-server -p 8080" 
     },
-    "author": "Your Name",
-    "license": "MIT",
+    "author": "Kenneth Barkdoll",
+    "license": "None",
     "devDependencies": {
       "http-server": "^14.0.0"
     }
