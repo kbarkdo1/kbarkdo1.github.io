@@ -1,0 +1,2 @@
+<TestComponent />
+<PhotoText text="./textFiles/bio.md" image="none" right={true}/>

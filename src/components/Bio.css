@@ -1,0 +1,61 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
+.bio {
+    margin:auto;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    max-height: 400px;
+    max-width:900px;
+}
+
+.biotextLeft {
+    float:right;
+    min-width:400px;
+    margin-left: 40%;
+    padding: 10px;
+    border: 3px solid green;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bioHeaderRight {
+    min-width:400px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    }
+.biotextRight {
+    float:right;
+    min-width:400px;
+    margin-right: 40%;
+    padding: 10px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.profilePhotoRight {
+    max-width: 400px;
+    max-height: 400px;
+    width: 40%;
+    margin:10px;
+    justify-content: center;
+}
+.profilePhotoLeft {
+    margin: 10px;
+    max-width: 400px;
+    max-height: 400px;
+    min-height: 200px;
+    min-width: 200px;
+    
+    
+    justify-content: center;
+}
+.other {
+    margin-top: 10px;
+    margin-left:50%;
+    margin-right:10px;
+}
