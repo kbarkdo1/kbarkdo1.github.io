@@ -89,13 +89,13 @@ function Bio(props:{onRight:boolean}) {
   if (props.onRight) {
     return (
         <p className="bioHeaderRight">
-          <p>I'm Ken. I love building, fixing and iteratively refining complex systems.
+          <p>I'm Ken. I love building, fixing and iteratively improving complex systems.
             I like understanding systems: in organizations this means people and communication styles, 
             in programming this means the usage and transformation of data. 
           </p>
           <p>I'm a graduate of Swarthmore College with a BA in Mathematics and Computer Science. 
           I've spent a lot of time using computers to do math, and using math to talk about computers. 
-          Now I apply that same reasoning to making the weird, the wonderful, the complicated, and the simple. 
+          Now I apply that same reasoning to the software engineering world, creating useful and efficient abstraction for development, and tools for expression. 
           Please reach out to me for any reason!
           </p>
         </p>
